@@ -1,4 +1,4 @@
-# 2021-22 CST1500 Computer Systems Architecture and Operating Systems
+# 2021-22 CST1500 Computer Systems Architecture and Operating Systems coursework1
 ## Coursework requirements:
 Students will have to write the code up to good programming standards (correct naming, 
 indentation, comments in code), present it to lab tutors in week 8 lab session and submit it 
